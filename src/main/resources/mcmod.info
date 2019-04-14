@@ -1,0 +1,21 @@
+[
+  {
+    "modid": "lootdrop",
+    "name": "Loot Drop",
+    "description": "Server admin utility testing tool to visualise random loot.",
+    "version": "${version}",
+    "credits": "Noobanidus",
+    "logoFile": "assets/lootdrop/textures/logo.png",
+    "mcversion": "${mc_version}",
+    "url": "http://github.com/duely/lootdrop",
+    "updateUrl": "",
+    "authorList": [
+      "Noobanidus"
+    ],
+    "parent": "",
+    "screenshots": [],
+    "dependencies": [
+      "forge,baubles"
+    ]
+  }
+]
